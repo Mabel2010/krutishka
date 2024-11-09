@@ -13,5 +13,5 @@ alert('Hello world');
 }
 ```
 **spisok:**
-*moi text
-*moi text2
+* moi text
+* moi text2
