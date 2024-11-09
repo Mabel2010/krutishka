@@ -1,6 +1,6 @@
 # This is my respository
 ## My name is CAT
-![Kartinka].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fvethelp72.ru%2Fstati%2Fmkb-u-kotov&psig=AOvVaw291ZpSNpjZcyosjH9S7aIF&ust=1731242799489000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjuyJOkz4kDFQAAAAAdAAAAABAE)
+![Kartinka](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUEmNnlLJ20yNp0hgiY5xma3ptG3p4KjyiQ&s)
 ## I am coder. **There is Example of my cod:**
 ```javascript
 let isAlive = true;
