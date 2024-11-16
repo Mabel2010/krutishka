@@ -4,7 +4,8 @@
 }
 body{
     background-color: rgb(64, 92, 94);
-    flex-direction: center;
+    justify-content: center;
+    display: flex;
 }
 img{
     width: auto;
