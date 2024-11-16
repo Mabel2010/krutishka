@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(64, 92, 94);
+    flex-direction: center;
+}
+img{
+    width: auto;
+    height: 150px;
+}
+ 
